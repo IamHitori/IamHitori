@@ -10,7 +10,7 @@
 </div>
 <br/>
 
-### へのサポート:
+### へのサポート | Contribución:
 <div display="flex">
   <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
 </div>
@@ -42,7 +42,7 @@ return 0;
 ```
 <br/>
 
-### イディオム:
+### イディオム | Lenguajes:
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -52,7 +52,7 @@ return 0;
 </div>
 <br/>
 
-### ツール:
+### ツール | Tools- IDEs:
 <div display="flex">
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
@@ -60,7 +60,7 @@ return 0;
 </div
 <br/>
 
-### コンピューター:
+### コンピューター | PC:
 <div display="flex">
   <img src="https://img.shields.io/badge/Windows-ASUS_ROG_Strix_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
@@ -77,7 +77,7 @@ return 0;
 <br/>
 
 
-### ゲーム:
+### ゲーム | Juegos:
 <div display="flex">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
