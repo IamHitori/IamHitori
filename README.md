@@ -41,10 +41,10 @@ return 0;
 }
 ```
 
-<a href="https://github.com/Ramen-de-Hitori">Mi pequeña organizacion | Ramen De hitori</a>
+<a href="https://github.com/Ramen-de-Hitori">🖤🌸🍜Mi pequeña organizacion | Ramen De hitori</a>
 <br/>
 
-### イディオム | Lenguajes:
+### イディオム | Lenguajes📓:
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -54,7 +54,7 @@ return 0;
 </div>
 <br/>
 
-### ツール | Tools- IDEs:
+### ツール | Tools- IDEs 🛠:
 <div display="flex">
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
@@ -62,7 +62,7 @@ return 0;
 </div
 <br/>
 
-### コンピューター | PC:
+### コンピューター | PC💻:
 <div display="flex">
   <img src="https://img.shields.io/badge/Windows-ASUS_ROG_Strix_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
@@ -79,7 +79,7 @@ return 0;
 <br/>
 
 
-### ゲーム | Juegos:
+### ゲーム | Juegos🎮:
 <div display="flex">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
