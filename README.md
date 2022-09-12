@@ -64,8 +64,8 @@ return 0;
 
 ### コンピューター | PC💻:
 <div display="flex">
-  <img src="https://img.shields.io/badge/Windows-ASUS_ROG_Strix_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Ryzen_5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
 <br/>
