@@ -82,7 +82,6 @@ return 0;
 ### ゲーム | Juegos🎮:
 <div display="flex">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nintendo_Switch_Lite-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
 </div>
 <br>
