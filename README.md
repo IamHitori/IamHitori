@@ -41,7 +41,7 @@ return 0;
 }
 ```
 
-<a href="https://github.com/Ramen-de-Hitori">🖤🌸🍜Mi pequeña organizacion | Ramen De hitori</a>
+<a href="https://github.com/PixelOutStudio">🖤🌸🍜Mi pequeña organizacion | PixelOut</a>
 <br/>
 
 ### イディオム | Lenguajes📓:
