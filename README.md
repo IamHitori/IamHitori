@@ -64,9 +64,8 @@ return 0;
 
 ### コンピューター | PC💻:
 <div display="flex">
-  
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-0071C5?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RADEON-RX6600-76B900?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+  <img src="https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 </div>
 <br/>
   
