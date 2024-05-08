@@ -70,7 +70,7 @@ return 0;
   
 ### OS:
 <div display="flex">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="(https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)" />
   <img src="https://img.shields.io/badge/kali_linux-35BF5C?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Debian-1793D1?style=for-the-badge&logo=debian&logoColor=white" />
@@ -82,6 +82,7 @@ return 0;
 <div display="flex">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
   <img src="https://img.shields.io/badge/Nintendo_Switch_Lite-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
+  <img src="(https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)">
 </div>
 <br>
 
