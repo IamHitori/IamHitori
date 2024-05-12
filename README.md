@@ -40,8 +40,6 @@ cout<<"🌸Sabias que cuando estoy aburrido me veras en 4chan o en Reddit]"<<end
 return 0;
 }
 ```
-
-# <a href="https://github.com/PixelOutStudio">🖤🌸🍜Mi pequeña organizacion | PixelOut</a>
 <br/>
 
 ### イディオム | Lenguajes📓:
