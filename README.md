@@ -6,7 +6,7 @@
 ### Shumi
 <div display="flex">
   <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">(https://www.twitch.tv/hitorii0)
+  [<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">](https://www.twitch.tv/hitorii0)
 </div>
 <br/>
 
