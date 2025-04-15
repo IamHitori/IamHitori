@@ -10,7 +10,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Lenguajes de Programacion en Aprendizaje</h2></summary>
-    <p>Algunos de estos lenguajes ando experimentando ya que me llaman la atencion, y me interesan porque son muy faciles de aprender y pudes hacer muchas cosas a nivel visual(markdown,html,css3), y en respecto a bases de datos me atrae mucho ya que pude experimentar y hacer cosas muy grandes.</p>
+    <p>Algunos de estos lenguajes ando experimentando ya que me llaman la atencion, y me interesan porque son muy faciles de aprender y pudes hacer muchas cosas a nivel visual (markdown,html,css3), y en respecto a bases de datos me atrae mucho ya que pude experimentar y hacer cosas muy grandes.</p>
   </ul>
 </div>
 <!--icons-->
@@ -19,3 +19,31 @@
     <img src="https://skillicons.dev/icons?i=php,javascript,css,html,markdown&perline=14" />
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
+
+
+
+
