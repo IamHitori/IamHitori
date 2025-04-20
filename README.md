@@ -63,7 +63,6 @@
 | SO                       | <p align="center">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows&perline=14" />   </a> </p>         |
 | Repos                    | <p align="center">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=git,github&perline=14" />   </a> </p>                  |
 | Tools                    | <p align="center">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=obsidian,discord&perline=14" />   </a> </p>            |
-|                          |                                                                                                                                                            |
 
 
 **** 
