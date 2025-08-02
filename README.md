@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.tenor.com/HsT2hrwNDkcAAAAi/maxwell-cat.gif" width="60"><b>Hola mi Nombre es Hitori </b><img src="https://media.tenor.com/-GNA5aKsKYwAAAAi/gato-kl-cat.gif" width="40"></h1>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> 🙎 Hitori  | 💻 Programador Autodidacta | 🌸 Japan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">  ⛧𐕣 𝕳𝖎𝖙𝖔𝖗𝖎𝖎 𐕣⛧  | 💻 Programador Autodidacta | 🌸 Japan <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"></h3>
 </div>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
