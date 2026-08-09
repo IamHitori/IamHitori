@@ -1,4 +1,4 @@
-# Hi there, I'm Damian 👋
+# Hi there, I'm Hitori 👋
 
 > **Backend Developer & Telematics / Networking Enthusiast**
 
@@ -38,8 +38,9 @@ Desarrollador enfocado en arquitectura de software, backend y sistemas. Actualme
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamHitori&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamHitori&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/github/followers/IamHitori?label=Seguidores&style=flat-square&color=181717&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/IamHitori?label=Estrellas&style=flat-square&color=181717&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/search/IamHitori/IamHitori/main?label=Commits&style=flat-square&color=181717&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -47,5 +48,4 @@ Desarrollador enfocado en arquitectura de software, backend y sistemas. Actualme
 ### 📫 Connect with me
 
 - **GitHub:** [github.com/IamHitori](https://github.com/IamHitori)
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com)
-- **Email:** `tu-correo@dominio.com`
+- **Email:** `hitori.yami@protonmail.com`
